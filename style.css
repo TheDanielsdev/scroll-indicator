@@ -27,6 +27,6 @@
 
 .progress-bar {
     height: 8px;
-    background: #4caf50;
+    background: red;
     width: 0%;
 }
